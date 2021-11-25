@@ -12,7 +12,16 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.oli1{
+  background-color: lightblue;
+  color: rgb(238, 26, 26);
+  text-align: center;
+}
+.oli2{
+  
+  font-family: verdana;
+  font-size: 20px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -21,7 +30,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(216, 221, 231);
 }
 
 .App-link {
